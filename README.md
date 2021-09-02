@@ -1,6 +1,6 @@
 # projetovue
 
-## Project setup
+## Configuração do Projeto
 ```
 npm install
 ```
