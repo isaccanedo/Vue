@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Compila e recarrega a para desenvolvimento
+### Compila e recarrega automaticamente para desenvolvimento
 ```
 npm run serve
 ```
