@@ -15,10 +15,10 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Lints e conserta arquivos
 ```
 npm run lint
 ```
 
-### Customize configuration
+### Personalize a configuração
 See [Configuration Reference](https://cli.vuejs.org/config/).
